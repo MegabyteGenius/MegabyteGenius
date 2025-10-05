@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @MegabyteGenius
 - 👀 I’m interested in Learning new things
-- 🌱 I’m currently learning HTTPS
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Any coding projects
 - 📫 How to reach me @RickRolledInBK on Twitter/X
 - 😄 Pronouns👨‍👧‍👦
-- ⚡ Fun fact:I am new to coding
+- ⚡ Fun fact: I love python
 
 <!---
 MegabyteGenius/MegabyteGenius is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
