@@ -2,7 +2,7 @@
 - 👀 I’m interested in Learning new things
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Any coding projects
-- 📫 How to reach me @RickRolledInBK on Twitter/X
+- 📫 How to reach me @ThatOneSw1mmer on Twitter/X
 - 😄 Pronouns👨‍👧‍👦
 - ⚡ Fun fact: I love python
 
