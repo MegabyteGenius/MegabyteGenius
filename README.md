@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Any coding projects
 - 📫 How to reach me @ThatOneSw1mmer on Twitter/X
-- 😄 Pronouns👨‍👧‍👦
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love python
 
 <!---
